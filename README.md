@@ -1,6 +1,8 @@
 # My_Portfolio
-Simple portfolio website using bootstrap , my intension with this project was to re-revise bootstrap and try deploying it with help of github.
-<img width="960" alt="Screenshot 2023-08-10 012830" src="https://github.com/ShahrukhJ/My_Portfolio/assets/117424128/f1166b33-ce99-4618-8452-df9f400f7467">
+Simple portfolio website using bootstrap , my intension with this project was to re-revise bootstrap and try deploying it with help of github.  
+
+<img width="960" alt="Screenshot 2023-08-10 012830" src="https://github.com/ShahrukhJ/My_Portfolio/assets/117424128/f1166b33-ce99-4618-8452-df9f400f7467">  
+
 Along side bootstrap i also used icons provided by Bocicons: https://boxicons.com/  
 
 <img width="178" alt="Screenshot 2023-08-10 142241" src="https://github.com/ShahrukhJ/My_Portfolio/assets/117424128/baa90792-61b7-425f-93d1-b6ef594401d5">  
