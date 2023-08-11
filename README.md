@@ -1,5 +1,5 @@
 # My_Portfolio
-Simple portfolio website using bootstrap , my intension with this project was to re-revise bootstrap and try deploying it with help of github.  
+Responsive portfolio website using bootstrap , my intension with this project was to re-revise bootstrap and try deploying it with help of github.  
 
 <img width="960" alt="Screenshot 2023-08-10 012830" src="https://github.com/ShahrukhJ/My_Portfolio/assets/117424128/f1166b33-ce99-4618-8452-df9f400f7467">  
 
